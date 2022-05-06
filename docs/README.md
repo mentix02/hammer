@@ -6,10 +6,8 @@ names and values as either of `text`, `url`, `email`, `number`, `time`, `date`, 
 and hammer will automatically mock fake data and send it as form data to the url specefied
 as a command line argument.
 
-Example invocation - 
-
+Example invocation (file: contact.json) - 
 ```json
-// contact.json
 {
     "name": "text",
     "email": "email",
