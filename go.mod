@@ -1,4 +1,4 @@
-module hammer
+module github.com/mentix02/hammer
 
 go 1.18
 
