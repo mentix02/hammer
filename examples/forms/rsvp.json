@@ -1,0 +1,7 @@
+{
+    "name": "text",
+    "email": "email",
+    "phone": "number",
+    "arrival": "date",
+    "seconds": "number"
+}

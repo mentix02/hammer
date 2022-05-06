@@ -8,6 +8,12 @@
 # Test binary, built with `go test -c`
 *.test
 
+# Binary
+*hammer
+
+# IDE files
+*.idea
+
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
